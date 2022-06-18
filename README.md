@@ -1,7 +1,9 @@
 # Preparation-for-start-DiscordBot-with-docker
 *DiscordBotをdockerで始める準備*
 
-⚠あくまで自分がやった環境下でのやり方なので
+⚠あくまで自分がやった環境下でのやり方なので参考程度にしてください。
+<br>
+*requirements.txtについては[こちら](https://www.delftstack.com/ja/howto/python/python-create-requirements.txt/)参考にしてやってください。*
 
 > 使ってるPC・OS・バージョンなど
 
