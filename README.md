@@ -1,5 +1,6 @@
 # Preparation-for-start-DiscordBot-with-docker
 *DiscordBotをdockerで始める準備*
+
 ⚠あくまで自分がやった環境下でのやり方なので
 
 > 使ってるPC・OS・バージョンなど
