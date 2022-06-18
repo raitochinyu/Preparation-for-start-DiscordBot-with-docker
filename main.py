@@ -22,8 +22,14 @@ class Bot(commands.Bot):
     print(f"{self.bot.user.name}#{self.bot.user.discriminator}")
 
 
+bot = Bot()
+
+bot.command()
+async def test(ctx):
+  await ctx.send('動いてるよ')
+
+
 async def Main():
-  bot = Bot()
   async with bot:
     await bot.start(TOKEN)
 
