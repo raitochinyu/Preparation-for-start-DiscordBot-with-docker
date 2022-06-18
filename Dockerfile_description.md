@@ -16,8 +16,6 @@
 ```
 
 
-*requirements.txtについては[こちら](https://www.delftstack.com/ja/howto/python/python-create-requirements.txt/)参考にしてやってください。*
-
 > 1行目
 
 pythonのバージョンを指定してます。必ずしもそのバージョンをPCに入れないといけないわけではないので大丈夫です。
