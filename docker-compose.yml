@@ -1,0 +1,7 @@
+version: "3"
+services:
+  raitochinyu:
+    container_name: RaitochinyuBot
+    build: .
+    tty: true
+    command: python3.9 main.py
